@@ -41,7 +41,7 @@
     * [Imports](#imports)
     * [Convert amount to word](#convert-amount-to-word)
   - [Upcoming Features](#features-coming-in-next-version)
-  - [Donate (Be the First one)](#donate-be-the-first-one)
+  - [Donate (Be the First one)](#donate)
 
 # Lets Get Started
 
