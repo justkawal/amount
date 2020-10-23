@@ -1,5 +1,5 @@
 name: amount
-description: Amount helps you to convert numbers to words.
+description: Amount helps to convert numerical amount to words.
 version: 1.0.0
 homepage: https://github.com/justkawal/amount.git
 
